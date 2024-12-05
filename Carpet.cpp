@@ -2,5 +2,5 @@
 using namespace std;
 
 int main() {
-	cout << "Car" << endl;
+	cout << "Cars with wheels" << endl;
 }
